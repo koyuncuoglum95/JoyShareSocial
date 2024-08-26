@@ -7,5 +7,3 @@
 3.) Implement server-side validation to ensure that the user is not already a member of the group.
 
 4.) Use Django's built-in views and models to create a form for creating a new post.
-
-https://koyuncuoglum95.pythonanywhere.com/
